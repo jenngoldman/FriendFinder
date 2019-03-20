@@ -1,19 +1,19 @@
 var friendsArray = [
     {
-     "name": "Ahmed",
-     "photo": "https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/62012-istock-833768276.jpg?itok=AvAKdWF_&resize=1100x1100",
-     "scores":[
-        "5",
-        "3",
-        "2",
-        "4",
-        "4",
-        "1",
-        "4",
-        "2",
-        "3",
-        "5"
-      ]
+        "name": "Ahmed",
+        "photo": "https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/62012-istock-833768276.jpg?itok=AvAKdWF_&resize=1100x1100",
+        "scores": [
+            "5",
+            "3",
+            "2",
+            "4",
+            "4",
+            "1",
+            "4",
+            "2",
+            "3",
+            "5"
+        ]
     },
     {
         "name": "Jenn",
@@ -49,4 +49,4 @@ var friendsArray = [
     }
 ];
 
-module.exports = friends;
+module.exports = friendsArray;
